@@ -1,19 +1,18 @@
 {
   "expo": {
-    "name": "Publish-RNCourse",
-    "slug": "Publish-RNCourse",
+    "name": "Meals-App-RNCourse",
+    "slug": "Meals-App-RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "backgroundColor": "#24180F",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
